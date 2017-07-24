@@ -1,7 +1,7 @@
 /* Footer design */
 /* Footer design */
 .footer {
-  background: #333333;
+  background: $gray-dark;
   padding: 30px 0;
   color: #CCCCCC;
 }
@@ -13,7 +13,7 @@
 }
 
 .footer i:hover {
-  color: yellow;
+  color: $yellow;
 }
 
 .footer p {
